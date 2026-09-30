@@ -11,7 +11,7 @@ Things I like to do in my spare time:
 1. Squash
 1. Movies
 
-hyperlinks [text to display](https://github.com/Vikash-09876/)
+hyperlinks [Link to my GitHub profile](https://github.com/Vikash-09876/)
 
 
 <!--
